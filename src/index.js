@@ -1,3 +1,4 @@
-import "./styles.css"
+import "./styles.css";
+import { createHomePage } from "./home.js";
 
-console.log("Restuarant Page!");
+createHomePage();
